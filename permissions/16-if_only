@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent hello ifonly user:guillaume
+chown vincent hello if $user=guillaume
