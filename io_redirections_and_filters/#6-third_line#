@@ -1,3 +1,0 @@
-#!/bin/bash
-grep -A3 0 iacta
- tail
